@@ -19,3 +19,39 @@ toc: true
 - UM's [Graduate Division](https://www.grad.miami.edu/electronic-thesis-and-dissertation/formatting-the-etd/index.html) also says:
 
 > The University does not offer official support for students who use LaTeX to prepare the final ETD document. However, past graduate students have taken the initiative to prepare a LaTeX template formatted per Graduate School ETD formatting guidelines and have shared the template with the Sr. Editor. Students interested in obtaining the template should send an e-mail request to grad.dissertation@miami.edu. Please note that the Sr. Editor can only provide the LaTeX template and is unable to provide assistance with using the LaTeX template.
+
+# Setting up R in a computational server
+
+``` bash
+# Install R
+sudo dnf install R
+
+# Now Download and Install RStudio Server
+curl -O https://download2.rstudio.org/server/rhel9/x86_64/rstudio-server-rhel-2026.09.0-174-x86_64.rpm # Get latest URL from https://docs.posit.co/ide/user/#rstudio-server-oss-downloads
+
+sudo dnf install rstudio-server-rhel-2026.09.0-174-x86_64.rpm
+rm rstudio-server-rhel-2026.09.0-174-x86_64.rpm
+
+# Enable the firewall on port 8787
+sudo firewall-cmd --permanent --zone=public --add-port=8787/tcp
+sudo firewall-comd --reload
+sudo systemctl enable --now rstudio-server
+
+# Dependencies to build R pakcages
+sudo dnf install libcurl-devel
+sudo dnf install fontconfig-devel
+sudo dnf install fribidi-devel
+sudo dnf install freetype-devel libpng-devel libtiff-devel libjpeg-devel libwebp-devel
+
+# Dependencies for spatial libraries
+sudo dnf install udinuits2-devel
+sudo dnf install gdal-devel
+sudo dnf install proj-devel pkgconf-pkg-config
+sudo dnf install geos-devel
+
+# People can access with the same credentials used to access the server
+# To add a user:
+sudo useradd -m <user_name>
+sudo passwd <user_name>
+```
+
