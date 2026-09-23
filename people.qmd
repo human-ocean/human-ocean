@@ -48,7 +48,7 @@ I am a fourth year JD/PhD student in the Department of Environmental Science and
 
 ::::: columns
 ::: {.column width="75%"}
-I am a fourth year PhD student in the Abess Center for Ecosystem Science and Policy where my interdisciplinary research focuses on the impact of climate change on high seas fisheries, particularly tunas, and the implications for society. With educational training and work experience across the biological and social sciences, I am interested in bridging the gap between marine science and the communities that are most affected by the health of the ocean. I possess ten years of experience as a decision-maker in the federal government, including the U.S. National Oceanic and Atmospheric Administration (NOAA), the National Park Service, and the White House Council of Environmental Quality. I have a Bachelors in Biology from Georgia Tech and a Masters in Anthropology from the University of Maryland.
+I am a fourth year PhD student in the Abess Center for Ecosystem Science and Policy where my interdisciplinary research focuses on the impact of climate change on high seas fisheries, particularly tunas, and the implications for society. With educational training and work experience across the biological and social sciences, I am interested in bridging the gap between marine science and the communities that are most affected by the health of the ocean. I possess ten years of experience as a decision-maker in the federal government, including the U.S. National Oceanic and Atmospheric Administration, the National Park Service, and the Obama White House Council of Environmental Quality. I have a Bachelors in Biology from Georgia Tech and a Masters in Anthropology from the University of Maryland.
 :::
 
 ::: {.column width="25%"}
