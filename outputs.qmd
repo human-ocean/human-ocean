@@ -13,7 +13,8 @@ title-block-banner: img/JCV_313.jpg
 
 ### In review
 
-- Molina R., **Villaseñor-Derbez J.C.** and Agar J. Hurricanes on Fisheries in the United States. _Journal of the Association of Environmental and Resource Economists_. In Review
+- **Villaseñor-Derbez J.C.** and Lynham J. Limited Conservation Benefits From the First Marine Protected Area on the High Seas. _Proceedings of the National Academy of Sciences_ (In Review: 2026-35071) | [working paper](documents/working_papers/high_seas_pockets.pdf)
+- Molina R., **Villaseñor-Derbez J.C.** and Agar J. Hurricanes on Fisheries in the United States. _Journal of the Association of Environmental and Resource Economists_. (In Review)
 - Molina R., **Villaseñor-Derbez J.C.**, McDonald G., and McDermott. The Economic and Environmental Cost of Pirate Avoidance. Revise and resubmit at _Nature Communications_ (R&R requested June 8, 2026: NCOMMS-25-93345A) | [working paper](documents/working_papers/piracy.pdf)
 - **Villaseñor-Derbez J.C.** et al., Towards Assessing Generalizability of Adaptive Responses in Small-Scale Fisheries. _npj Ocean Sustainability_ (R&R requested August 27: 5fc3f864-31e2-4569-8f8f-25f06f4e2a44) | [working paper](documents/working_papers/generalizable_adaptation.pdf)
 
@@ -86,7 +87,6 @@ title-block-banner: img/JCV_313.jpg
 ## Working papers
 
 ### In Progress
-- **Villaseñor-Derbez J.C.** and Lynham J. Limited Conservation Benefits From the First Marine Protected Area in the High Seas [working paper](documents/working_papers/high_seas_pockets.pdf)
 - **Villaseñor-Derbez J.C.**, Costello C., and Deschênes O. Natural Experiments Show Fuel Subsidies Amplify Fishing Pressure in Industrial Fisheries. | [working paper](documents/working_papers/subsidies2_0.pdf)
 - Molina, R., **Villaseñor-Derbez J.C.**, and Agar J. The Economic Impacts of Hurricanes in Fisheries in the United States. | [CESifo working Paper No. 12871](https://doi.org/10.65864/s58blvp5m8)
 - Abe K., Molina R., Tanaka K., **Villaseñor-Derbez J.C.** No Calm Before the Storm: Typhoons, Shipping, and Trade | [CESifo Working Paper No. 12746](https://www.ifo.de/DocDL/cesifo1_wp12746.pdf)
