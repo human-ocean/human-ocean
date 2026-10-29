@@ -11,13 +11,18 @@ Note that students don't join the lab to work on specific projects. You will hav
 
 ## PhD Positions for Fall '27
 
-I am recruiting one **fully funded** (5-yrs) PhD student to start in Fall 2027. [Prospective students should contact me^[email: jc_villasenor@miami.edu] well in advance of the application deadline of Jan 8, 2027.]{.underline} Please include your CV and a 1-2 page document (max) describing your past experience in academic research, your research interests, and your motivations for pursuing a PhD. You may also wish to include other products that showcase your skills, such as a writing sample or GitHub repository. I am also happy to accommodate for students bringing their own funding.
+I am recruiting one **fully funded** (5-yrs) PhD student to start in Fall 2027. Steps:
+
+1. Applications are due via the [application portal](https://applygrad.miami.edu/portal/application) by Jan 8, 2027.
+2. Prospective students should also contact me well in advance. Please include your CV and a 1-2 page document (max) describing your past experience in academic research, your research interests, and your motivations for pursuing a PhD. You may also wish to include other products that showcase your skills, such as a writing sample or GitHub repository. Note that your message to me is NOT an application.
+
+Thinking about bringing your own funding? I am happy to accommodate for students bringing their own funding through something like an [NSF GRFP](https://www.nsf.gov/funding/initiatives/grfp). I am happy to work with you in securing your own funding.
 
 # Undergraduate students
 
-Undergraduate students interested in joining my lab may do so via [MSC 411 / 412](https://undergraduate.earth.miami.edu/academics/independent-research/index.html). Please contact me to inquire about potential opportunities. You should be comfortable working independently in R. A great resource to get you started is the [R for Data Science](https://r4ds.hadley.nz/) book, as well as my [course materials](https://jcvdav.github.io/EVR_628/).
+Undergraduate students interested in joining my lab typically do so via [MSC 411 / 412](https://undergraduate.earth.miami.edu/academics/independent-research/index.html). Please contact me to inquire about potential opportunities. You should be comfortable working independently in R. A great resource to get you started is the [R for Data Science](https://r4ds.hadley.nz/) book, as well as my [course materials for EVR 528](https://jcvdav.github.io/EVR_628/).
 
-# Masters Students
+# Master's Students
 
-- Students entering or already enrolled in the [Master of Professional Science (MPS) program](https://mps.earth.miami.edu/index.html) don't typically "join" a lab. However, I encourage you to inquire about internship opportunities in my lab.
+- Already enrolled or interested in our [Master of Professional Science (MPS) program](https://mps.earth.miami.edu/index.html)? Reach out!
 - I don't actively recruit students to enroll in our [Master of Science](https://graduate.earth.miami.edu/phd-and-ms-programs/environmental-science-and-policy/index.html) program unless you are bringing in your own funding. I am happy to work with you in securing your own funding.

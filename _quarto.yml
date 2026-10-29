@@ -17,12 +17,12 @@ website:
           - policies.qmd
           - templates.qmd
           - modifying_content.qmd
-  announcement: 
-    icon: info-circle
-    dismissable: true
-    content: "**We are recruiting!** -  See the [Join the lab](join.qmd) tab for more info."
-    type: primary
-    position: below-navbar
+  # announcement: 
+  #   icon: info-circle
+  #   dismissable: true
+  #   content: "**We are recruiting!** -  See the [Join the lab](join.qmd) tab for more info."
+  #   type: primary
+  #   position: below-navbar
 format:
   html:
     theme:
