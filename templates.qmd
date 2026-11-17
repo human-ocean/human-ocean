@@ -16,11 +16,13 @@ toc: true
   - NSF proposal
   - Reviewer report
 - Overleaf has a [template](https://www.overleaf.com/latex/templates/university-of-miami-thesis-template/hnqdhpwvwvcm) for UM Thesis
-- UM's [Graduate Division](https://www.grad.miami.edu/electronic-thesis-and-dissertation/formatting-the-etd/index.html) also says:
+- UM's [Graduate Division](https://www.grad.miami.edu/electronic-thesis-and-dissertation/formatting-the-etd/index.html) provides a [LaTeX template generator](https://www.grad.miami.edu/electronic-thesis-and-dissertation/formatting-the-etd/etd-generator.html).
 
-> The University does not offer official support for students who use LaTeX to prepare the final ETD document. However, past graduate students have taken the initiative to prepare a LaTeX template formatted per Graduate School ETD formatting guidelines and have shared the template with the Sr. Editor. Students interested in obtaining the template should send an e-mail request to grad.dissertation@miami.edu. Please note that the Sr. Editor can only provide the LaTeX template and is unable to provide assistance with using the LaTeX template.
+# Quarto markdown templates
 
-# Setting up R in a computational server
+- [css file](HOSL_style.css)
+
+# Setting up R and RStudio in a computational server
 
 ``` bash
 # Install R

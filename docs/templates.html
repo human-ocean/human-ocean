@@ -2,16 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.37">
+<meta name="generator" content="quarto-1.8.27">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>Templates – Human–Ocean Systems Lab</title>
 <style>
-/* Default styles provided by pandoc.
-** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
-*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -69,14 +66,15 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-45431c2918bd31147ddb3fa7038bb99f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-ff63373b1067ca6f91cf1456aa1f00a2.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -181,9 +179,6 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </div>
       </div> <!-- /container-fluid -->
     </nav>
-  <div id="quarto-announcement" data-announcement-id="d66aca40c892e5cedee47dfdfd073c05" class="alert alert-primary hidden"><i class="bi bi-info-circle quarto-announcement-icon"></i><div class="quarto-announcement-content">
-<p><strong>We are recruiting!</strong> - See the <a href="./join.html">Join the lab</a> tab for more info.</p>
-</div><i class="bi bi-x-lg quarto-announcement-action"></i></div>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
@@ -196,7 +191,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <ul>
   <li><a href="#github-repo-templates" id="toc-github-repo-templates" class="nav-link active" data-scroll-target="#github-repo-templates">GitHub repo templates</a></li>
   <li><a href="#latex-templates" id="toc-latex-templates" class="nav-link" data-scroll-target="#latex-templates">LaTeX templates</a></li>
-  <li><a href="#setting-up-r-in-a-computational-server" id="toc-setting-up-r-in-a-computational-server" class="nav-link" data-scroll-target="#setting-up-r-in-a-computational-server">Setting up R in a computational server</a></li>
+  <li><a href="#quarto-markdown-templates" id="toc-quarto-markdown-templates" class="nav-link" data-scroll-target="#quarto-markdown-templates">Quarto markdown templates</a></li>
+  <li><a href="#setting-up-r-and-rstudio-in-a-computational-server" id="toc-setting-up-r-and-rstudio-in-a-computational-server" class="nav-link" data-scroll-target="#setting-up-r-and-rstudio-in-a-computational-server">Setting up R and RStudio in a computational server</a></li>
   </ul>
 </nav>
     </div>
@@ -239,14 +235,17 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <li>Reviewer report</li>
 </ul></li>
 <li>Overleaf has a <a href="https://www.overleaf.com/latex/templates/university-of-miami-thesis-template/hnqdhpwvwvcm">template</a> for UM Thesis</li>
-<li>UM’s <a href="https://www.grad.miami.edu/electronic-thesis-and-dissertation/formatting-the-etd/index.html">Graduate Division</a> also says:</li>
+<li>UM’s <a href="https://www.grad.miami.edu/electronic-thesis-and-dissertation/formatting-the-etd/index.html">Graduate Division</a> provides a <a href="https://www.grad.miami.edu/electronic-thesis-and-dissertation/formatting-the-etd/etd-generator.html">LaTeX template generator</a>.</li>
 </ul>
-<blockquote class="blockquote">
-<p>The University does not offer official support for students who use LaTeX to prepare the final ETD document. However, past graduate students have taken the initiative to prepare a LaTeX template formatted per Graduate School ETD formatting guidelines and have shared the template with the Sr.&nbsp;Editor. Students interested in obtaining the template should send an e-mail request to grad.dissertation@miami.edu. Please note that the Sr.&nbsp;Editor can only provide the LaTeX template and is unable to provide assistance with using the LaTeX template.</p>
-</blockquote>
 </section>
-<section id="setting-up-r-in-a-computational-server" class="level1">
-<h1>Setting up R in a computational server</h1>
+<section id="quarto-markdown-templates" class="level1">
+<h1>Quarto markdown templates</h1>
+<ul>
+<li><a href="HOSL_style.css">css file</a></li>
+</ul>
+</section>
+<section id="setting-up-r-and-rstudio-in-a-computational-server" class="level1">
+<h1>Setting up R and RStudio in a computational server</h1>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Install R</span></span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">sudo</span> dnf install R</span>
 <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a></span>
